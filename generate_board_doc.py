@@ -245,6 +245,31 @@ add_insight(doc,
     'is more profitable and slower-growing simultaneously — a pattern that demands '
     'a deliberate strategic answer in 2026.')
 
+# ── Financial Dashboard Chart ─────────────────────────────────────────────────
+add_section_heading(doc, 'Financial Dashboard — Five-Panel Summary')
+
+p = doc.add_paragraph()
+no_space_para(p)
+p.paragraph_format.space_before = Pt(6)
+p.paragraph_format.space_after  = Pt(4)
+run = p.add_run(
+    'The chart below consolidates the key financial trends across revenue growth, '
+    'margin expansion, segment mix, net revenue retention, and AI Copilot ramp. '
+    'Detailed exhibits follow in the body of this statement.'
+)
+run.font.size      = Pt(9)
+run.font.name      = 'Calibri'
+run.font.color.rgb = SLATE
+run.italic         = True
+
+p_img = doc.add_paragraph()
+no_space_para(p_img)
+p_img.paragraph_format.space_before = Pt(4)
+p_img.paragraph_format.space_after  = Pt(12)
+p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
+run_img = p_img.add_run()
+run_img.add_picture('/home/user/ddfd/meridian_board_chart.png', width=Inches(6.2))
+
 # ── Issue 1 ───────────────────────────────────────────────────────────────────
 add_section_heading(doc, 'Issue 1 — Growth Deceleration')
 
