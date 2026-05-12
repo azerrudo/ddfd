@@ -1,0 +1,123 @@
+MERIDIAN TECHNOLOGIES, INC. (MRDN)
+Q4 AND FULL YEAR 2025 EARNINGS CONFERENCE CALL
+January 29, 2026  •  5:00 PM ET
+
+CORPORATE PARTICIPANTS
+  Tara Linwood    Head of Investor Relations
+  Catherine Park     President and Chief Executive Officer
+  David Hoyt      Chief Financial Officer
+
+================================================================================
+PREPARED REMARKS (excerpted)
+================================================================================
+
+CATHERINE PARK
+  Good afternoon. Q4 revenue one hundred three point two million, up
+  ten percent. ARR closed the year at four hundred thirteen million,
+  up ten percent. Full year revenue four hundred million, up eleven
+  percent.
+
+  Operating margin Q4 twelve point four percent. Free cash flow margin
+  seventeen point eight percent. Cash and equivalents four hundred
+  sixty-three million, after closing Helio Labs in November.
+
+  This was my first full year as your CEO. Three things to discuss.
+
+  First, the segment reorg is in production. Each of our three GMs ran
+  their own P&L for Q4. Enterprise grew twenty-one percent ARR year over
+  year. Mid-market grew six percent. SMB declined twenty-three percent.
+  The shape of our business is now visible in a way it has never been.
+
+  Second, AI Copilot. End of Q4 paying seats seven hundred ten, against
+  a target we'd set internally of six hundred. Approximately three point
+  five million in 2025 ARR contribution. Forty-four percent attach rate
+  on enterprise renewals signed in Q4 — above our forty percent target.
+  These are early but real proof points.
+
+  Third, on Helio integration — we have moved roughly half of the Helio
+  team into the Copilot product organization and half into a new
+  agentic-experiences group reporting to me. Twenty-six of twenty-eight
+  Helio employees are still with the company.
+
+  For 2026 we are guiding to revenue of four hundred forty to four
+  hundred fifty-five million, implying ten to fourteen percent growth.
+  We are guiding operating margin of fourteen to fifteen percent. The
+  range reflects continued AI investment offset by efficiency in mature
+  segments.
+
+  This is the year we have to decide what Meridian is. The board and I
+  have been having that conversation. I will share my point of view at
+  our Investor Day on March eleventh.
+
+DAVID HOYT
+  Subscription revenue ninety-seven point five. Services five point seven.
+  Gross margin seventy-nine point six.
+
+  R&D as a percentage of revenue twenty-five point four percent — the
+  highest level since IPO, reflecting AI investment and Helio integration.
+  Sales and marketing thirty-two point two. G&A nine point five.
+
+  Operating margin twelve point four. Free cash flow eighteen point four
+  million.
+
+  Cash and equivalents four hundred sixty-three. We did not repurchase
+  stock in Q4. Buybacks remain paused through Q1 2026.
+
+================================================================================
+Q&A (excerpted)
+================================================================================
+
+ALLISON PARK / MORGAN STANLEY
+  Catherine, the 2026 guidance — ten to fourteen percent. The Street was at
+  fifteen. Walk us through it.
+
+CATHERINE PARK
+  Allison, three things. One, we are baking in continued SMB decline —
+  about thirty million headwind to growth. Two, AI Copilot ramp is real
+  but we are early; we are not modeling it as the dominant growth driver
+  for this year. Three, we are continuing to be disciplined on price.
+  We could chase fifteen percent by getting aggressive on enterprise
+  discounting. We will not.
+
+BRENT COSTA / GOLDMAN SACHS
+  The Investor Day in March — what should we expect?
+
+CATHERINE PARK
+  A clear statement of where Meridian is going for the next three years
+  and how we will get there. We will share new financial targets, our
+  AI roadmap in detail, and the long-term strategic shape we believe
+  in. I won't preview any of it today.
+
+PRIYA RAMAN / JPMORGAN
+  Capital allocation in 2026 — buyback or M&A?
+
+CATHERINE PARK
+  Likely both, weighted to M&A. We have run a careful screen. We have
+  identified two additional acquisition targets in the AI-native space
+  that we are in early diligence on. Nothing announced. The buyback
+  resumes in Q2.
+
+KARIM OUEDRAOGO / CITI
+  Competitive update.
+
+CATHERINE PARK
+  Asana shipped their full agent suite in November and pricing pressure
+  in mid-market is now the steady state. Monday continues to scale and
+  is now larger than us by ARR. ClearAI Work raised a one hundred
+  twenty million round at a one billion plus valuation; they remain a
+  competitive thorn in SMB. Atlassian's announcement last week of an
+  agentic Jira is the more interesting development — they will be in
+  our enterprise deals more directly than they have been historically.
+
+WENDY BAO / WELLS FARGO
+  You said this is the year Meridian decides what it is. Can you say more?
+
+CATHERINE PARK
+  Wendy, the deeper question is whether we are still primarily a
+  project management tool with AI bolted on, or whether we are an
+  agentic work platform that happens to have project management as one
+  of its surfaces. The answer to that question changes our R&D priorities,
+  our sales motion, our pricing model, and our positioning. The board
+  and I have a strong view. We will share it at Investor Day.
+
+[END EXCERPTED]

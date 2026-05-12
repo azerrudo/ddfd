@@ -1,0 +1,96 @@
+MERIDIAN TECHNOLOGIES, INC. (MRDN)
+Q2 2025 EARNINGS CONFERENCE CALL
+July 24, 2025  •  5:00 PM ET
+
+CORPORATE PARTICIPANTS
+  Tara Linwood    Head of Investor Relations
+  Catherine Park     President and Chief Executive Officer
+  David Hoyt      Chief Financial Officer
+
+================================================================================
+PREPARED REMARKS (excerpted)
+================================================================================
+
+CATHERINE PARK
+  Good afternoon. Q2 revenue ninety-eight point eight million, up eleven
+  percent. ARR four hundred eight million. Operating margin twelve percent.
+
+  Three updates from the strategic review I promised on the last call.
+
+  One. We are reorganizing the company around three customer segments —
+  enterprise, mid-market, and SMB — each with their own P&L starting Q4. We
+  have been running one go-to-market motion for three very different
+  customers and the math no longer works.
+
+  Two. The AI Copilot moved from closed to open beta this quarter. Paying
+  seats at quarter end were one hundred forty. That's small, but it is no
+  longer zero. We are targeting general availability in Q3 with three
+  enterprise lighthouse references.
+
+  Three. On capital allocation, we are accelerating our buyback. The board
+  authorized an additional one hundred million on top of the existing
+  authorization. We continue to evaluate M&A in the AI-native space.
+
+DAVID HOYT
+  Subscription revenue ninety-three point two. Services five point six.
+  Gross margin seventy-nine point five. Operating margin eleven point six,
+  modestly ahead of our internal plan.
+
+  Cash and equivalents four hundred forty-seven million. We repurchased
+  forty million of stock during the quarter.
+
+  We are tightening 2025 revenue guidance to three hundred ninety-eight to
+  four hundred two million from three hundred ninety to four hundred five.
+  Operating margin guidance unchanged at twelve to thirteen percent.
+
+================================================================================
+Q&A (excerpted)
+================================================================================
+
+ALLISON PARK / MORGAN STANLEY
+  Catherine, on the segment reorg — does this mean you've decided to keep SMB?
+
+CATHERINE PARK
+  We've decided not to exit it abruptly. We've decided to stop subsidizing
+  it from enterprise economics. SMB will run on a self-serve, fully-loaded
+  basis. If it can fund itself, it stays. If not, we will manage it down
+  in a controlled way over the next eighteen months.
+
+BRENT COSTA / GOLDMAN SACHS
+  AI Copilot — one hundred forty paying seats. What's the price point and
+  what's the trajectory you'd want investors to model?
+
+CATHERINE PARK
+  Forty dollars per seat per month, as an add-on to existing licenses.
+  Trajectory — I'd ask investors to model meaningful contribution starting
+  in 2026, not 2025. We have to earn it.
+
+PRIYA RAMAN / JPMORGAN
+  M&A — anything you can share?
+
+CATHERINE PARK
+  Nothing to announce. We have an active list. We are looking specifically
+  at AI-native collaboration tools where the engineering team and IP would
+  meaningfully advance our roadmap. We have set an internal target deal
+  size of fifty to two hundred fifty million.
+
+KARIM OUEDRAOGO / CITI
+  The competitive environment — has anything changed?
+
+CATHERINE PARK
+  Asana announced they are bundling their AI agent into the standard tier
+  starting in Q4. That's a meaningful escalation. Monday continues to
+  compete on price. There is a new entrant — ClearAI Work — they are
+  small but the demos are good and they are taking some of our SMB.
+
+WENDY BAO / WELLS FARGO
+  Headcount and morale.
+
+CATHERINE PARK
+  Headcount roughly flat at twenty-four hundred employees. We did a
+  modest workforce reduction in G&A of about eighty roles in May, which
+  the company knows about. Morale — I'd say it's stabilizing. The
+  segment reorg is energizing for some teams and disorienting for others.
+  My CHRO and I have a lot of work ahead of us on culture.
+
+[END EXCERPTED]

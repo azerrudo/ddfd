@@ -1,0 +1,9 @@
+quarter,nrr_overall_pct,grr_overall_pct,nrr_smb_pct,nrr_midmarket_pct,nrr_enterprise_pct,nps_overall,gross_logo_churn_smb_pct,gross_logo_churn_midmarket_pct,gross_logo_churn_enterprise_pct,sales_productivity_new_arr_per_rep_usd_k,cac_payback_months,magic_number,reps_quota_carrying,ai_copilot_paying_seats
+2024Q1,114,89,98,108,127,44,18.4,9.1,3.2,1320,18.2,1.20,402,0
+2024Q2,113,88,96,107,127,43,19.1,9.4,3.0,1290,18.9,1.16,408,0
+2024Q3,112,88,93,106,126,42,19.8,9.6,2.9,1255,19.5,1.10,412,0
+2024Q4,111,87,91,105,126,42,20.2,9.8,2.8,1210,20.4,1.05,418,0
+2025Q1,110,87,89,104,125,42,20.8,9.9,2.7,1180,21.1,1.02,422,0
+2025Q2,110,86,88,103,125,41,21.1,10.0,2.7,1150,21.6,0.98,425,140
+2025Q3,109,86,86,103,125,41,21.6,10.1,2.6,1130,22.0,0.95,428,420
+2025Q4,109,86,84,102,125,40,22.1,10.2,2.6,1110,22.4,0.92,430,710

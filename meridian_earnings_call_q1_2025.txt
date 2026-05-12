@@ -1,0 +1,205 @@
+MERIDIAN TECHNOLOGIES, INC. (MRDN)
+Q1 2025 EARNINGS CONFERENCE CALL
+April 24, 2025  •  5:00 PM ET
+
+CORPORATE PARTICIPANTS
+  Tara Linwood    Head of Investor Relations
+  Catherine Park     President and Chief Executive Officer
+  David Hoyt      Chief Financial Officer
+
+CONFERENCE CALL PARTICIPANTS
+  Allison Park    Morgan Stanley
+  Brent Costa     Goldman Sachs
+  Priya Raman     JPMorgan
+  Karim Ouedraogo Citi
+  Wendy Bao       Wells Fargo
+
+================================================================================
+PREPARED REMARKS
+================================================================================
+
+OPERATOR
+  Good afternoon and welcome to Meridian Technologies' first quarter 2025
+  earnings call. At this time, all participants are in a listen-only mode.
+  After the speakers' presentation, there will be a question and answer
+  session. I will now turn the call over to Tara Linwood, Head of Investor
+  Relations.
+
+TARA LINWOOD
+  Thank you, operator, and good afternoon. Joining me today are Catherine Park,
+  our newly appointed President and CEO, and David Hoyt, our CFO.
+
+  Before we begin, I'd like to remind everyone that today's discussion will
+  contain forward-looking statements. With that, I'll turn it over to Catherine.
+
+CATHERINE PARK
+  Thank you Tara, and good afternoon everyone. Before I cover the quarter,
+  let me say it's a privilege to be here. I joined Meridian thirty days ago,
+  and I want to thank Lenore for the foundation she leaves us — three
+  thousand five hundred customers, a strong enterprise franchise, and one
+  of the best engineering teams in collaboration software.
+
+  My focus over the next ninety days is to listen, to meet our largest
+  customers and partners, and to be honest with this board, this team, and
+  with you about where we are.
+
+  Let me give you the headline numbers and then I want to spend most of my
+  time talking about what I'm seeing.
+
+  Q1 revenue was ninety-six point four million dollars, up twelve percent
+  year over year. ARR ended the quarter at three hundred ninety-nine million,
+  also up about twelve percent. Operating margin expanded to eleven percent,
+  free cash flow margin sixteen percent.
+
+  These are decent results in absolute terms. They are the slowest growth
+  rates this company has reported as a public company.
+
+  I want to be direct. The deceleration we are seeing — twenty-eight percent
+  growth in 2022, nineteen percent in 2023, sixteen percent in 2024, and
+  on track for low double digits in 2025 — is not transitory. It is
+  structural. We have to address it.
+
+  Three things I am seeing.
+
+  First, our enterprise business is performing well. Net revenue retention
+  in enterprise is one hundred twenty-five percent. We are winning displacement
+  deals, particularly in financial services and life sciences. This is a real
+  asset. We will invest behind it.
+
+  Second, our SMB business has deteriorated faster than I think this team
+  fully appreciated coming in. Net retention in SMB is below ninety percent
+  and gross logo churn is north of twenty percent annualized. The previous
+  strategic plan deliberately deprioritized SMB. I think the deprioritization
+  is correct in direction. The execution has been chaotic.
+
+  Third, on AI. We launched our AI Copilot to limited beta in Q4 of last
+  year. Adoption is — to put it kindly — early. Meanwhile, every category
+  competitor and several well-funded startups are out in the market with
+  agentic AI features that customers are asking us about on every call.
+  We are behind, and the gap is widening.
+
+  In ninety days I will come back to you with a strategic plan. Until then,
+  no major changes to guidance, no big M&A announcements. Thirty days of
+  listening, sixty days of planning. With that, David.
+
+DAVID HOYT
+  Thanks Catherine. Q1 revenue ninety-six point four, up twelve percent.
+  Subscription revenue ninety-one point one. Services revenue five point
+  three. Gross margin seventy-nine point four percent. Sales and marketing
+  expense as a percentage of revenue thirty-three point four percent, down
+  from thirty-five point two percent in the year-ago quarter as we continue
+  to be disciplined on go-to-market spend.
+
+  R&D expense was twenty-four point nine percent of revenue, up modestly
+  as we increase investment in our AI roadmap. G&A ten point oh percent.
+
+  Operating margin eleven point one percent. Free cash flow fifteen point
+  five million, sixteen percent margin.
+
+  Cash and equivalents four hundred thirty-eight million at quarter end.
+  No debt. We repurchased thirty million of stock during the quarter under
+  our existing authorization.
+
+  Looking ahead, we are reiterating our 2025 revenue guidance of three
+  hundred ninety to four hundred five million, implying eight to twelve
+  percent growth. Operating margin guidance of twelve to thirteen percent.
+
+  With that, operator, please open the line for questions.
+
+================================================================================
+Q&A
+================================================================================
+
+OPERATOR
+  Our first question comes from Allison Park at Morgan Stanley.
+
+ALLISON PARK
+  Hi. Catherine, welcome. A question on the AI Copilot rollout. You mentioned
+  adoption is early. Can you put some metrics around it? And how should we
+  think about the timeline for general availability?
+
+CATHERINE PARK
+  Allison, thanks. Honest answer — paying seats on AI Copilot at the end of
+  Q1 are zero. The product is in a closed beta with about forty enterprise
+  customers. We are still resolving real product issues in beta. I expect
+  GA in Q3 at the earliest. I'd rather be late and right than on time and
+  embarrassed.
+
+ALLISON PARK
+  Got it. And follow-up — does the previous AI roadmap survive your review?
+
+CATHERINE PARK
+  Parts of it. I'd say more than half of what's on the roadmap I would
+  question. We'll come back to you in ninety days.
+
+OPERATOR
+  Next question, Brent Costa, Goldman Sachs.
+
+BRENT COSTA
+  Catherine, on SMB. You said it's deteriorated faster than the team
+  appreciated. Can you quantify? And is there a scenario where you simply
+  exit SMB?
+
+CATHERINE PARK
+  Brent, on the numbers — SMB was about eighteen percent of ARR as of
+  last quarter, down from thirty-eight percent at the end of 2022. Net
+  retention in SMB is in the mid eighties. On the question of exiting —
+  nothing is off the table, but I want to be careful. SMB historically
+  is the top of the funnel that brings logos into mid-market and
+  eventually enterprise. If we cut SMB to zero, do we starve the funnel?
+  I don't yet know the answer. We'll have one in ninety days.
+
+OPERATOR
+  Priya Raman, JPMorgan.
+
+PRIYA RAMAN
+  Hi. Capital allocation question. You have four hundred thirty-eight
+  million in cash, no debt. Buyback or M&A?
+
+CATHERINE PARK
+  Priya, both are on the table. Frankly, with our valuation where it is
+  today, the buyback math is attractive. On M&A, I am specifically looking
+  at AI-native companies that could accelerate our roadmap by twelve to
+  eighteen months. I would rather buy capability than rebuild it.
+
+OPERATOR
+  Karim Ouedraogo, Citi.
+
+KARIM OUEDRAOGO
+  Catherine, can you talk about competitive intensity? Specifically with
+  Asana and Monday on the AI side.
+
+CATHERINE PARK
+  Asana shipped their AI agent feature in the fall and they are hammering
+  it in every deal we are in. Monday has been more aggressive on price
+  with AI features bundled in their mid-tier plans. We are losing some
+  deals on AI feature parity. Not most deals — but enough that I am
+  paying attention.
+
+OPERATOR
+  Wendy Bao, Wells Fargo.
+
+WENDY BAO
+  Hi. Cultural question. You're new. What's the team's mindset right now?
+
+CATHERINE PARK
+  Honestly, mixed. Engineering is frustrated about roadmap thrash on AI.
+  Sales is frustrated about losing deals on features the roadmap promised
+  but hasn't delivered. Customer success is energized — our enterprise
+  customers love us. My job in the next ninety days is to give the
+  organization a clear story and stop the thrash.
+
+OPERATOR
+  That concludes our question and answer session. I will now turn the call
+  back to Catherine Park for closing remarks.
+
+CATHERINE PARK
+  Thank you. Three things to remember from today. The deceleration is real
+  and structural. The enterprise franchise is a genuine asset. We are
+  behind on AI and we are going to address it. Ninety days. Thanks
+  everyone.
+
+OPERATOR
+  This concludes today's conference call. You may disconnect.
+
+[END]

@@ -1,0 +1,116 @@
+MERIDIAN TECHNOLOGIES, INC. (MRDN)
+Q3 2025 EARNINGS CONFERENCE CALL
+October 23, 2025  •  5:00 PM ET
+
+CORPORATE PARTICIPANTS
+  Tara Linwood    Head of Investor Relations
+  Catherine Park     President and Chief Executive Officer
+  David Hoyt      Chief Financial Officer
+
+================================================================================
+PREPARED REMARKS (excerpted)
+================================================================================
+
+CATHERINE PARK
+  Q3 revenue one hundred one point five million, up eleven percent. ARR
+  four hundred twenty million. Operating margin twelve percent.
+
+  AI Copilot reached general availability in September. End-of-quarter
+  paying seats four hundred twenty, up from one hundred forty in Q2.
+  Three enterprise lighthouse customers announced in the quarter.
+  Material revenue contribution still small — approximately five hundred
+  thousand dollars in Q3 — but the trend line is what we wanted.
+
+  On the segment reorganization — the new structure goes live November
+  first. Each segment GM has accountability for their own P&L starting
+  Q4.
+
+  Two announcements I want to flag.
+
+  First, we announced last week the acquisition of Helio Labs, a
+  twenty-eight person AI-native team based in Toronto. Total deal value
+  is approximately seventy-eight million dollars — ten million in cash
+  at close and sixty-eight million in retention equity vesting over four
+  years. Expected to close in November. Helio brings us a working agent
+  framework and senior engineering talent. We are retaining all
+  twenty-eight Helio employees and we expect the team to meaningfully
+  accelerate our AI roadmap.
+
+  Second, on capital allocation, we have paused buybacks for the next
+  two quarters as we integrate Helio.
+
+DAVID HOYT
+  Subscription ninety-five point eight. Services five point seven. Gross
+  margin seventy-nine point five. Operating margin twelve point oh.
+
+  Cash and equivalents four hundred fifty-six million at quarter end,
+  before the Helio close.
+
+  We are reaffirming 2025 revenue guidance of three hundred ninety-eight
+  to four hundred two million. We are raising operating margin guidance
+  to twelve point five to thirteen point five percent on the back of
+  better-than-expected Q3 cost discipline.
+
+================================================================================
+Q&A (excerpted)
+================================================================================
+
+ALLISON PARK / MORGAN STANLEY
+  Helio Labs — twenty-eight people for a seventy-eight million headline
+  number. Walk us through it.
+
+CATHERINE PARK
+  Allison, I get the question. Three pieces. One, only ten million is
+  cash at close — the other sixty-eight million is retention equity that
+  vests over four years, the team has to stay for us to pay it out.
+  Two, the engineering bench is the asset — twenty-eight engineers all
+  from leading AI labs. Three, the agent framework Helio built compresses
+  our roadmap by an estimated fifteen months. We modeled the build-cost
+  of doing this in-house at one hundred ten million plus eighteen months
+  of opportunity cost in a market where every quarter behind hurts. The
+  structure was the right structure.
+
+BRENT COSTA / GOLDMAN SACHS
+  How are you measuring AI Copilot success?
+
+CATHERINE PARK
+  Three metrics, in order. One, attach rate to enterprise renewals — we
+  want this above forty percent within twelve months of GA. Two, in-product
+  usage of agentic actions — what percentage of our users use an AI
+  feature weekly. Three, willingness to pay — does Copilot show up in NPS
+  comments and does it appear in win-loss reasons. We will report these
+  publicly starting Q1.
+
+PRIYA RAMAN / JPMORGAN
+  SMB — any update?
+
+CATHERINE PARK
+  SMB ARR was sixty-eight million Q4 last year. It will end this year
+  closer to fifty-two million. Net retention in the low eighties. The
+  reorg lets us run SMB self-funded. We are no longer chasing this
+  segment with discounted enterprise economics.
+
+KARIM OUEDRAOGO / CITI
+  Asana bundled their AI into standard tier in October as they had
+  signaled. Are you seeing pricing pressure?
+
+CATHERINE PARK
+  Yes. Specifically in mid-market renewals. We are seeing renewals push
+  for at least one of: a price hold, expanded user counts at the same
+  price, or AI Copilot bundled in at no cost. We are holding the line on
+  Copilot pricing at forty per seat. We are giving on price holds where
+  the customer is strategic.
+
+WENDY BAO / WELLS FARGO
+  How do you respond to the analyst notes that say Meridian is "structurally
+  disadvantaged" against Asana given the scale gap?
+
+CATHERINE PARK
+  Wendy, two answers. The pessimist note is correct that Asana has a
+  larger R&D budget and a bigger user base for training agentic features.
+  The optimist note — which is mine — is that we win in regulated
+  enterprises where Asana does not, and that segment values us more for
+  governance and audit features than for raw AI horsepower. We will
+  continue to invest there.
+
+[END EXCERPTED]
