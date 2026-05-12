@@ -1,0 +1,19 @@
+metric,value_usd_m,as_of,notes
+cash_and_equivalents,463.4,2025Q4,after Helio close (10M cash); buybacks paused
+short_term_investments,42.8,2025Q4,
+total_liquidity,506.2,2025Q4,cash + short-term investments
+debt_outstanding,0.0,2025Q4,no debt; 200M revolver undrawn
+revolver_capacity_undrawn,200.0,2025Q4,available if needed
+2025_full_year_revenue,400.0,2025FY,11% YoY growth
+2025_full_year_fcf,67.5,2025FY,17% FCF margin
+2026_revenue_guidance_low,440.0,2026FY,10% YoY low end
+2026_revenue_guidance_high,455.0,2026FY,14% YoY high end
+2026_op_margin_guidance_low,14.0,2026FY,percent
+2026_op_margin_guidance_high,15.0,2026FY,percent
+2026_estimated_fcf,75.0,2026FY,~17% margin
+estimated_capacity_for_AI_M&A_2026,250.0,2026FY,cash on hand + 2026 FCF less working capital buffer
+2026_rd_budget,112.0,2026FY,25.4% of revenue
+2026_ai_specific_rd_budget,55.0,2026FY,~half of total R&D
+2025_buyback_authorization_remaining,140.0,2025Q4,paused through Q1 2026
+helio_acquisition_total_value,78.0,2025Q4,10M cash + 68M retention equity vesting through 2029
+ai_copilot_2025_arr_contribution,3.5,2025FY,first full year, mostly Q3-Q4
